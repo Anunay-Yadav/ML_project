@@ -9,7 +9,7 @@ Requirements
 
 Data
 ==========================
-* all the data can be found in the drive  https://drive.google.com/drive/folders/18MiUede2DyPXPXd9NwYbfDIXreVEWuTL?usp=sharing
+* all the data and features can be found in the drive  https://drive.google.com/drive/folders/18MiUede2DyPXPXd9NwYbfDIXreVEWuTL?usp=sharing
 
 Jupyter notebooks
 ==========================
